@@ -1,1 +1,3 @@
 # MineTaskTracker
+Simple task tracker.
+
